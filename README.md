@@ -1,2 +1,2 @@
 # Arduino
-Some basic Arduino codes to help you save time
+Some Arduino codes to help you save time
